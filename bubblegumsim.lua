@@ -250,7 +250,7 @@ Event:FireServer(table.unpack({
 }))
    end,
 })
-
+print("i like men")
 local Button = TpTab:CreateButton({
    Name = "Teleport to Outer Space",
    Callback = function()
